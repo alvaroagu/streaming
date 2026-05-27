@@ -1,0 +1,3 @@
+[  {"username": "admin", "nombre": "Admin", "apellido": "User", "passwordHash": "$2a$10$V2n/8osBqjfEqXtGrSKYQeok1fuZvCj5K7bK2r/teFxY3wFiiokGy", "role": "ADMIN", "biblioteca": [] },
+  {"username": "testuser", "nombre": "Test", "apellido": "User", "passwordHash": "$2a$10$yRBpLNdENWd9B7B0Lamt1Ol9vt1hYIbUVol90YfCV0ghtQR2Y1W5.", "role": "ESTANDAR", "biblioteca": [{ "titulo": "@2 AM COFFEE - A short film", "genero": "Corto", "anio": 2020, "descripcion": "Corto experimental.", "url": "videos/@2 AM COFFEE - A short film _ Sony FX3 _ 4K.mp4" }] }
+]
