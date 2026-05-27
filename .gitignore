@@ -1,0 +1,16 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore video samples and large media files
+/videos/
+
+# IDE and OS files
+/.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Build folders
+out/
+target/
